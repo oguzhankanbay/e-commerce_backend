@@ -1,4 +1,4 @@
-# E-Ticaret Websitesi Projesi
+# E-Ticaret Websitesi Backend Projesi
 
 Bu proje, Node.js ve Express.js kullanılarak geliştirilmiş bir e-ticaret websitesidir. Proje, Stripe ödeme sistemi, kullanıcı kimlik doğrulama işlemi, kupon kullanımı gibi çeşitli özellikler içermektedir.
 
